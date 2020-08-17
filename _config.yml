@@ -13,10 +13,10 @@ author: Vincent Meijer
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://vincentmeijer.github.io"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://vincentmeijer.github.io"
 
 # --- Logo --- #
 
@@ -72,14 +72,14 @@ excerpt_length: 50
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#a3aac9"
+navbar-col: "#999ca8"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#a3aac9"
+footer-col: "#999ca8"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
